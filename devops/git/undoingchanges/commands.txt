@@ -1,0 +1,4 @@
+git checkout file name
+git checkout .
+git reset file name
+

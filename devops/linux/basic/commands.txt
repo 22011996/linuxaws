@@ -1,0 +1,18 @@
+mkdir/ -p dir1/sub1/sub2 / dir1 dir2 ..dirn
+cd 
+cd ..
+touch 
+pwd
+ls /ls -l /ls -a
+rmdir
+rm
+cat
+echo
+man
+whoami/whoiam
+clear
+history
+vi filename /nano file name
+
+
+

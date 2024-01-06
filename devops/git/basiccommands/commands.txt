@@ -1,0 +1,31 @@
+git init
+git config user.name "name"
+git config user.email "email"
+git add file name
+git add ./--all/-A
+git add *.extenson
+git commit -m "message"
+git log/--oneline/-num
+git status
+git remote add origin url
+git push origin master/branch
+git branch branch name
+git chechkout -b branch name
+git checkout/switch branch 
+git branch -d branch name
+git branch -D branch name
+git push origin -d branch name
+git branch /--list
+git merge bname
+git rebase bname
+git rm --cached file name
+git cherry-pick commit ID
+git clone url
+git pull url
+git revert fname
+git fetch url
+git remote -r
+git remote rm origin
+git reflog
+git diff b1 b2
+

@@ -1,0 +1,3 @@
+copy - cp filename directory
+move- mv filename directory
+rename- mv oldfilename new filename
